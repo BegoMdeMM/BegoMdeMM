@@ -8,7 +8,7 @@ My name is Bego and this is my portfolio.
   - *Acquired skills*: [Skills](https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica/competencias-adquiridas)
 - 👯 I’m looking to collaborate on new projects.
 - 💬 If you have interests or doubts on my projects, feel free to ask me about them. I am glad to hear from you.
-- 📫 How to reach me: [Linkein](https://www.linkedin.com/in/bego%C3%B1a-mart%C3%ADnez-mart%C3%ADnez-ba01b8205/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bego%C3%B1a-mart%C3%ADnez-mart%C3%ADnez-ba01b8205/)
 
 
 <!--
